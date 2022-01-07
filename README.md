@@ -19,7 +19,7 @@ func main() {
 		Port:        8080,
 		Secret:      "SOME_RANDOM_SECRET",
 		LogFilePath: "logfile.txt",
-	}
+    }
 
     // Create and start the sentry instance
     instance := sentry.NewInstance(opts)
