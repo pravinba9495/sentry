@@ -16,9 +16,9 @@ func main() {
 
     // Initialize sentry options 
     opts := &sentry.SentryOptions{
-		Port:        8080,
-		Secret:      "SOME_RANDOM_SECRET",
-		LogFilePath: "logfile.txt",
+	Port:        8080,
+	Secret:      "SOME_RANDOM_SECRET",
+	LogFilePath: "logfile.txt",
     }
 
     // Create and start the sentry instance
