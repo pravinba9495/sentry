@@ -3,7 +3,14 @@
 
 Stream logs through websockets, written in Go.
 
-## Usage
+## Table of Contents
+- [Example](#example)
+- [Documentation](#documentation)
+- [Development](#development)
+- [Maintainers](#maintainers)
+- [License](#license)
+
+## Example
 ### Server
 ```go
 package main
@@ -29,5 +36,13 @@ func main() {
 }
 ```
 
+## Documentation
+Sentry documentation is hosted at [Read the docs](pkg.go.dev/github.com/pravinba9495/sentry).
+
+## Development
+Sentry is still under development. Contributions are always welcome!
+
+## Maintainers
+* [@pravinba9495](https://github.com/pravinba9495)
 ## License
 MIT
