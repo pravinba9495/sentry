@@ -37,7 +37,7 @@ func main() {
 ```
 
 ## Documentation
-Sentry documentation is hosted at [Read the docs](pkg.go.dev/github.com/pravinba9495/sentry).
+Sentry documentation is hosted at [Read the docs](https://pkg.go.dev/github.com/pravinba9495/sentry).
 
 ## Development
 Sentry is still under development. Contributions are always welcome!
